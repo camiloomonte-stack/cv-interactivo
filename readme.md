@@ -18,4 +18,4 @@ Currículum Vitae interactivo desarrollado como evaluación del Módulo 2 – Fu
 
 ## Visualización
 👉 Enlace al CV online (GitHub Pages):
-https://TU_USUARIO.github.io/cv-interactivo/
+https://camiloomonte-stack.github.io/cv-interactivo/
